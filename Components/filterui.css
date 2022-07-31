@@ -1,0 +1,43 @@
+.filtercontainer div
+{
+    display: inline-block;
+    padding: 5px 20px;
+    margin-left :100px;
+    border: 1px solid white;
+    
+
+}
+.filtercontainer{
+   
+    background-color: white;
+    border-radius: 8px;
+   width: 1350px;
+   margin-left: 80px;
+   color:rgb(203, 203, 213);
+}
+.filtercontainer select{
+    border: 0px;
+    outline: 0px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+/* .filtercontainer select option{
+   
+   
+
+} */
+
+
+.Search button
+{
+ background-color: #892EE4;
+ color:white;
+ padding: 10px 20px;
+ border-radius: 7px;
+ font-size: 17px;
+ border: 0px;
+ outline: 0px;
+ margin-right: 0px;
+}
